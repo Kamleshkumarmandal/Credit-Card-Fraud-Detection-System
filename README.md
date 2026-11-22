@@ -8,6 +8,8 @@ A Machine Learning project designed to detect fraudulent credit card transaction
 
 Credit card fraud detection is a classic imbalanced classification problem where fraudulent transactions represent a tiny fraction of total activity. This project preprocesses transaction features, handles class imbalance, and trains a machine learning classifier to accurately flag suspicious transactions while minimizing false positives.
 
+🚀demo link
+https://credit-card-fraud-detection-system-fjmt5rt8vztgncmuvv3bk.streamlit.app/?utm_source=chatgpt.com
 ---
 
 ## ✨ Features
